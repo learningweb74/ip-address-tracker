@@ -118,7 +118,7 @@ h1 {
 .header {
   z-index: 999;
   text-align: center;
-  background-image: url("https://raw.githubusercontent.com/iamspruce/temp-intro-to-api/main/pattern-bg-desktop.png");
+  background-image: url("https://raw.githubusercontent.com/learningweb74/temp-intro-to-api/main/pattern-bg-desktop.png");
   background-size: cover;
 }
 
@@ -131,7 +131,7 @@ h1 {
 
 @media (max-width: 770px) {
   .header {
-    background-image: url("https://raw.githubusercontent.com/iamspruce/temp-intro-to-api/main/pattern-bg-mobile.png");
+    background-image: url("https://raw.githubusercontent.com/learningweb74/temp-intro-to-api/main/pattern-bg-mobile.png");
     background-size: cover;
   }
 }
